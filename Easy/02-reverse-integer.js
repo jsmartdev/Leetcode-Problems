@@ -5,7 +5,6 @@
  * @return {number}
  */
 
-let x = 33333333333;
 
 var reverse = function(x) {
     let number = Math.abs(x).toString().split('').reverse().join('');

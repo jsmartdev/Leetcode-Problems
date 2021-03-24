@@ -1,8 +1,5 @@
 /* eslint-disable */
 
-let nums = [2, 4, 5, 7, 3]
-target = 9;
-
 var twoSum = function(nums, target) {
     // create a loop to iterate through the nums array
     for(i = 0; i < nums.length; i ++) {

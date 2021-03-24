@@ -8,12 +8,12 @@
 let x = 33333333333;
 
 var reverse = function(x) {
-    let integer = x.toString().split('').reverse().join('');
-    if(integer < -2147483648 || integer > 2147483647) {
+    let number = Math.abs(x).toString().split('').reverse().join('');
+    if(number < -2147483648 || number > 2147483647) {
         return 0;
     }
     else {
-        return ;
+        return number * Math.sign(x);
     }
 };
 

@@ -11,7 +11,5 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    current = head;
-while(current.next) {current = current.next;}
-current.next = node;
+    
 };

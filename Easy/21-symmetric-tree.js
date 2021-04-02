@@ -8,10 +8,9 @@
  * }
  */
 /**
- * @param {TreeNode} p
- * @param {TreeNode} q
+ * @param {TreeNode} root
  * @return {boolean}
  */
-var isSameTree = function(p, q) {
+var isSymmetric = function(root) {
     
 };

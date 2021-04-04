@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 /**
  * @param {number} x
  * @return {boolean}

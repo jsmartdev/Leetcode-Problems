@@ -1,4 +1,3 @@
-/* eslint-disable */
 /**
  * @param {number[]} nums
  * @return {number}

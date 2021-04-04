@@ -1,31 +1,3 @@
-/**
- * @param {string[]} strs
- * @return {string}
- */
-var longestCommonPrefix = function(strs) {
-    let prefix = ''
-    if (strs.length > 0) {
-        for (let i = 0; ; i++) {
-            const common = strs[0][i]
-            if (!common) { 
-                return prefix 
-                };
-            for (let j = 0; j < strs.length; j++) {
-                if (strs[j][i] !== common) {
-                    return prefix;
-                }
-            };
-            prefix += common;
-        };   
-    };
-    return prefix;
-};
-
----
-Difficulty: Easy
-Related Topics:
-  "String": https://leetcode.com/tag/string
----
 
 ## [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
@@ -87,27 +59,14 @@ var longestCommonPrefix = function (strs) {
 
 ```
 
-#### Solution B
+### Difficulty: 
 
-```javascript
+Easy
 
-var longestCommonPrefix = function(strs) {
-    let prefix = ''
-    if (strs.length > 0) {
-        for (let i = 0; ; i++) {
-            const common = strs[0][i]
-            if (!common) { 
-                return prefix 
-                };
-            for (let j = 0; j < strs.length; j++) {
-                if (strs[j][i] !== common) {
-                    return prefix;
-                }
-            };
-            prefix += common;
-        };   
-    };
-    return prefix;
-};
-```
+### Related Topics:
+
+"String": https://leetcode.com/tag/string
+
+
+
 

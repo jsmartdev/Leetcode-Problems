@@ -63,6 +63,11 @@ var twoSum = function(nums, target) {
 }; 
 ```
 
-#### Difficulty: Easy
+#### Difficulty: 
 
-#### Related Topics: Array: https://leetcode.com/tag/array Hash Table: https://leetcode.com/tag/hash-table
+Easy
+
+#### Related Topics: 
+
+Array: https://leetcode.com/tag/array 
+Hash Table: https://leetcode.com/tag/hash-table

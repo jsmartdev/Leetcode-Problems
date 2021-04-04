@@ -27,9 +27,9 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```
 
-### Solution:
+### Solution(s):
 
-#### ONE
+#### Solution A
 
 Easy to write but slow since it generates an array.
 
@@ -43,7 +43,8 @@ var isPalindrome = function(x) {
 };
 ```
 
-#### TWO
+#### Solution B
+
 **Follow up:**
 Coud you solve it without converting the integer to a string?
 

@@ -1,3 +1,4 @@
+
 ---
 Difficulty: Easy
 Related Topics:
@@ -24,6 +25,8 @@ return [0, 1].
 
 ### Solution:
 
+#### ONE
+
 Map the numbers to their indices as we iterate, so that we can look them back up in O(1) time complexity.
 
 ```javascript
@@ -43,7 +46,15 @@ var twoSum = function(nums, target) {
     indicies[num] = i
   }
 };
+```
+#### TWO
 
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 var twoSum = function(nums, target) {
     // create a loop to iterate through the nums array
     for(i = 0; i < nums.length; i ++) {
@@ -59,5 +70,4 @@ var twoSum = function(nums, target) {
         }
     }
 }; 
-
 ```

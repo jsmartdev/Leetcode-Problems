@@ -41,7 +41,7 @@ Assume we are dealing with an environment which could only store integers within
 
 #### ONE
 
-This is a JavaScript specific solution. It is esay to write but slow to run because it generates O(n) space. This could end up a huge array.
+This is a JavaScript specific solution. It is easy to write but slow to run because it generates O(n) space. This could end up a huge array.
 
 ```javascript
 /**

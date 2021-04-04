@@ -63,3 +63,14 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
 ### Solution(s):
+
+
+### Difficulty: 
+
+Easy
+
+### Related Topics:
+  
+"Math": https://leetcode.com/tag/math
+
+"String": https://leetcode.com/tag/string

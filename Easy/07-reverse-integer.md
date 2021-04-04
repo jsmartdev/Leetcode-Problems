@@ -1,9 +1,7 @@
 
 
 ---
-Difficulty: Easy
-Related Topics:
-  "Math": https://leetcode.com/tag/math
+
 
 ---
 
@@ -37,9 +35,9 @@ Output: 21
 **Note:**
 Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 
-### Solution:
+### Solution(s):
 
-#### ONE
+#### Solution A
 
 This is a JavaScript specific solution. It is easy to write but slow to run because it generates O(n) space. This could end up a huge array.
 
@@ -54,7 +52,7 @@ var reverse = function(x) {
   return (x < 0? -1: 1) * n
 };
 ```
-#### TWO
+#### Solution B
 
 ```javascript
 var reverse = function(x) {
@@ -66,7 +64,7 @@ var reverse = function(x) {
   return Math.abs(result) > 2147483647 ? 0 : result
 };
 ```
-#### THREE
+#### Solution C
 
 ```javascript
 var reverse = function(x) {
@@ -79,3 +77,12 @@ var reverse = function(x) {
     }
 };
 ```
+
+### Difficulty: 
+
+Easy
+
+### Related Topics:
+  
+"Math": https://leetcode.com/tag/math
+

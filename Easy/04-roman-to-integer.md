@@ -1,5 +1,3 @@
-/* eslint-disbale */
-
 /**
  * @param {string} s
  * @return {number}

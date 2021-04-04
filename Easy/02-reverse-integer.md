@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 /**
  * @param {number} x
  * @return {number}
@@ -17,4 +15,3 @@ var reverse = function(x) {
 };
 
 reverse();
-

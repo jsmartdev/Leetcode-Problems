@@ -14,9 +14,9 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-### Solution:
+### Solution(s):
 
-#### ONE
+#### Solution A
 
 Map the numbers to their indices as we iterate, so that we can look them back up in O(1) time complexity.
 
@@ -38,7 +38,7 @@ var twoSum = function(nums, target) {
   }
 };
 ```
-#### TWO
+#### Solution B
 
 ```javascript
 /**
@@ -63,11 +63,11 @@ var twoSum = function(nums, target) {
 }; 
 ```
 
-#### Difficulty: 
+### Difficulty: 
 
 Easy
 
-#### Related Topics: 
+### Related Topics: 
 
 Array: https://leetcode.com/tag/array 
 Hash Table: https://leetcode.com/tag/hash-table

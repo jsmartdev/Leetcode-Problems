@@ -1,10 +1,3 @@
-
----
-Difficulty: Easy
-Related Topics:
-  "Math": https://leetcode.com/tag/math
----
-
 ## [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 ### Problem:
@@ -77,3 +70,11 @@ function reverse (x) {
   return result
 };
 ```
+
+### Difficulty: 
+
+Easy
+
+### Related Topics:
+  
+"Math": https://leetcode.com/tag/math

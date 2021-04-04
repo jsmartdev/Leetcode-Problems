@@ -1,4 +1,3 @@
-/* eslint-disable */
 /**
  * @param {string[]} strs
  * @return {string}

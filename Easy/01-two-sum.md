@@ -1,3 +1,4 @@
+## [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 ---
 Difficulty: Easy
@@ -6,7 +7,7 @@ Related Topics:
   "Hash Table": https://leetcode.com/tag/hash-table
 ---
 
-## [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
 
 ### Problem:
 

@@ -18,3 +18,4 @@ var removeElement = function(nums, val) {
     // return the new length of the nums array after any and all instances of val have been removed
     return nums.length;
 }; 
+

@@ -101,19 +101,19 @@ var isValid = function(s) {
 
 ### Difficulty: 
 
-Easy
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics:
 
-"String": https://leetcode.com/tag/string
+**[String](https://leetcode.com/tag/string)**
 
-"Stack": https://leetcode.com/tag/stack
+**[Stack](https://leetcode.com/tag/stack)**
 
 ### Similar Questions:
 
-"Generate Parentheses": https://leetcode.com/problems/generate-parentheses
+**[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)**
 
-"Longest Valid Parentheses": https://leetcode.com/problems/longest-valid-parentheses
+**[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)**
   
-"Remove Invalid Parentheses": https://leetcode.com/problems/remove-invalid-parentheses
+**[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)**
 

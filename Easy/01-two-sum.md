@@ -65,7 +65,7 @@ var twoSum = function(nums, target) {
 
 ### Difficulty: 
 
-**Easy**
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics: 
 

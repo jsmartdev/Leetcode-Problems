@@ -73,9 +73,15 @@ var reverse = function(x) {
 
 ### Difficulty: 
 
-Easy
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics:
   
-"Math": https://leetcode.com/tag/math
+**[Math](https://leetcode.com/tag/math)**
+
+### Similar Questions:
+
+**[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)**
+
+**[Reverse Bits](https://leetcode.com/problems/reverse-bits/)**
 

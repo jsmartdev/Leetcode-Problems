@@ -58,12 +58,12 @@ Easy
 
 ### Related Topics:
 
-https://leetcode.com/tag/two-pointers/
+"Two Pointers": https://leetcode.com/tag/two-pointers/
 
-https://leetcode.com/tag/string/
+"String": https://leetcode.com/tag/string/
 
 ### Similar Questions:
 
-https://leetcode.com/problems/shortest-palindrome/
+"Shortest Palindrome": https://leetcode.com/problems/shortest-palindrome/
 
-https://leetcode.com/problems/repeated-substring-pattern/
+"Repeated Substring Pattern": https://leetcode.com/problems/repeated-substring-pattern/

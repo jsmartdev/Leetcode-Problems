@@ -53,3 +53,17 @@ var searchInsert = function(nums, target) {
     return nums.length
 };
 ```
+
+### Difficulty:
+
+Easy
+
+### Related Topiucs:
+
+**[Array](https://leetcode.com/tag/array/)**
+
+https://leetcode.com/tag/binary-search/
+
+### Similar Questions:
+
+https://leetcode.com/problems/first-bad-version/

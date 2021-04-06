@@ -62,15 +62,15 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
-### Solution(s):
+### Solutions:
 
 
 ### Difficulty: 
 
-Easy
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics:
   
-"Math": https://leetcode.com/tag/math
+**[Math](https://leetcode.com/tag/math)**
 
-"String": https://leetcode.com/tag/string
+**[String](https://leetcode.com/tag/string)**

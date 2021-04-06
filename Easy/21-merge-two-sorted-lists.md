@@ -69,7 +69,7 @@ Easy
 
 "Linked List": https://leetcode.com/tag/linked-list
 
-### Similar Questions:
+### Similar Questions: 
 
 "Merge k Sorted Lists": https://leetcode.com/problems/merge-k-sorted-lists
 

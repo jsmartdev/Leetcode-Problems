@@ -61,11 +61,12 @@ var longestCommonPrefix = function (strs) {
 
 ### Difficulty: 
 
-Easy
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics:
 
-"String": https://leetcode.com/tag/string
+**[String](https://leetcode.com/tag/string)**
+
 
 
 

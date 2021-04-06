@@ -62,8 +62,8 @@ Easy
 
 **[Array](https://leetcode.com/tag/array/)**
 
-https://leetcode.com/tag/binary-search/
+**[Binary Search](https://leetcode.com/tag/binary-search/)**
 
 ### Similar Questions:
 
-https://leetcode.com/problems/first-bad-version/
+**[First Bad Version](https://leetcode.com/problems/first-bad-version/)**

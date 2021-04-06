@@ -1,4 +1,4 @@
-## [28. Implement strStrs()](https://leetcode.com/problems/implement-strstr/description/)
+## [28. Implement strStrs](https://leetcode.com/problems/implement-strstr/description/)
 
 ### Problem: 
 

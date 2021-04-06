@@ -65,9 +65,21 @@ var twoSum = function(nums, target) {
 
 ### Difficulty: 
 
-Easy
+**Easy**
 
 ### Related Topics: 
 
-Array: https://leetcode.com/tag/array 
-Hash Table: https://leetcode.com/tag/hash-table
+**[Array](https://leetcode.com/tag/array)** 
+**[Hash Table](https://leetcode.com/tag/hash-table)**
+
+### Similar Questions:
+
+**[3Sum](https://leetcode.com/problems/3sum/)**
+**[4Sum](https://leetcode.com/problems/4sum/)**
+**[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)**
+**[Two Sum III](https://leetcode.com/problems/two-sum-iii-data-structure-design/)**
+**[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)**
+**[Two Sum IV](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)**
+**[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)**
+**[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)**
+**[Count Good Meals](https://leetcode.com/problems/count-good-meals/)**

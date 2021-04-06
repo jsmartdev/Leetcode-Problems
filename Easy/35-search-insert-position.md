@@ -56,7 +56,7 @@ var searchInsert = function(nums, target) {
 
 ### Difficulty:
 
-Easy
+**Easy**
 
 ### Related Topiucs:
 

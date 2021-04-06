@@ -74,8 +74,12 @@ function reverse (x) {
 
 ### Difficulty: 
 
-Easy
+**[Easy](https://leetcode.com/problemset/all/?difficulty=Easy)**
 
 ### Related Topics:
   
-"Math": https://leetcode.com/tag/math
+**[Math](https://leetcode.com/tag/math)**
+
+### Similar Questions:
+
+**[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)**

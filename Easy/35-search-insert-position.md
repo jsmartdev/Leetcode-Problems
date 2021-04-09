@@ -58,7 +58,7 @@ var searchInsert = function(nums, target) {
 
 **Easy**
 
-### Related Topiucs:
+### Related Topics:
 
 **[Array](https://leetcode.com/tag/array/)**
 

@@ -64,6 +64,31 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ### Solutions:
 
+```javascript
+var romanToInt = function(s) {
+    let table = {
+        I: 1,
+        V: 5,
+        X: 10,
+        L: 50,
+        C: 100,
+        D: 500,
+        M: 1000
+    }
+    let result = 0;
+    for (i = 0; i < s.length; i++) {
+        // if the next roman numeral in the sequence is larger we must subtract
+        if (table[s[i]] < table[s[i+1]]) {
+            result-=table[s[i]]
+        } else {
+            // otherwise add as normal
+            result+=table[s[i]]
+        }
+    }
+    return result
+};
+```
+
 
 ### Difficulty: 
 

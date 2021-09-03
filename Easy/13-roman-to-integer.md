@@ -66,7 +66,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ```javascript
 var romanToInt = function(s) {
-    let table = {
+    const key = {
         I: 1,
         V: 5,
         X: 10,
@@ -75,17 +75,20 @@ var romanToInt = function(s) {
         D: 500,
         M: 1000
     }
+    
     let result = 0;
+    
     for (i = 0; i < s.length; i++) {
-        // if the next roman numeral in the sequence is larger we must subtract
-        if (table[s[i]] < table[s[i+1]]) {
-            result-=table[s[i]]
+        // if the next roman numeral in the sequence is larger  
+        // than the current, must subtract current from result
+        if (key[s[i]] < key[s[i+1]]) {
+            result -= key[s[i]];
         } else {
-            // otherwise add as normal
-            result+=table[s[i]]
+            // otherwise add current number to result
+            result += key[s[i]];
         }
     }
-    return result
+    return result;
 };
 ```
 

@@ -83,7 +83,8 @@ var romanToInt = function(s) {
         // than the current, must subtract current from result
         if (key[s[i]] < key[s[i+1]]) {
             result -= key[s[i]];
-        } else {
+        } 
+        else {
             // otherwise add current number to result
             result += key[s[i]];
         }
